@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wechat-article",
+  "version": "1.0.0",
+  "description": "面向微信公众号文章处理的 Claude Skills 集合",
+  "homepage": "https://github.com/weiolivia056-ops/wechat-article",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weiolivia056-ops/wechat-article.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weiolivia056-ops/wechat-article/issues"
+  },
+  "plugins": []
+}
